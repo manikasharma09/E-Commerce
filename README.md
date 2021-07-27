@@ -1,45 +1,6 @@
 # AMAZECART
-An e-commerce platform which allows to shop and pay across a wide selection of digital products and categories using Django and deployed on Heroku platform.
-
-## OBJECTIVES
-•	Creating the product catalog models, adding them to the administration site, and building the basic views to display the catalog
-
-•	Building a shopping cart system using Django sessions to allow users to keep selected products while they browse the site.
-
-•	Creating the form and functionality to place orders on the site.
-
-## APPROACH
-The whole project was divided into set of modules and the modules were built independently and then clubbed to form a complete webapp.
-The modules were:
-•	Frontend HTML pages: Basic HTML pages of the complete project were created. 
-
-•	Dynamic URL linking of the pages: All the pages created for the frontend were dynamically linked to each other, using links we passed the required data for the next page to render.
-
-•	Creating views and models: Views contain the functions which will fetch the data from database and will pass this data to the HTML pages to render the data; models are used to create tables for the database.
-
-•	Adding CSS to the frontend: The basic HTML pages which were created in the first module were given styling’s and work on aesthetics of the pages was done.
-    Each team member worked on one module and then all the modules were clubbed to complete the project.
 
 
-## FEATURES
-
-### User
-•	User can register to Amazecart.
-
-•	User can login into his account.
-
-•	User can view different categories of Products and the quantity of that particular product.
-
-•	User can add products in cart.
-
-•	User can enter address for delivery.
-
-### Admin
-•	Admin can login using his credentials.
-
-•	Admin can perform CRUD operations on users.
-
-•	Admin can perform CRUD operations on products.
 
 ## DESIGN
 
@@ -96,12 +57,5 @@ Using the admin panel the admin can perform the CRUD operations on the user deta
 
 ![Test Image 8](https://github.com/ApoorvaJinde/AmazeCart/blob/master/images/8.PNG)
  
-## CONCLUSION AND FUTURE SCOPE
-It was a great opportunity to work on such a project, where we got to learn and know more about some good technologies such as Django, node, Bootstrap, java script, html and CSS.
 
-About Amazecart, it is an application helpful for users to view and order the different digital products , the demand of such applications always remain high as we all have experienced in this pandemic that the online shopping has proved to be  much safer than offline shopping.  
-
-With this mode of shopping we get the provision of receiving the products to our door steps unlike the offline mode where we need to wander different shops to purchase our required products.
-
-Thus, adapting to application such Amazecart will be more beneficial for users who can access the products anywhere and anytime.
 
