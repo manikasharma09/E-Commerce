@@ -52,10 +52,7 @@ The user can view the product details and enter the quantity and click on add to
 ![Test Image 7](https://github.com/ApoorvaJinde/AmazeCart/blob/master/images/7.PNG)
  
 
-### Admin Panel: 
-Using the admin panel the admin can perform the CRUD operations on the user details and also on the Products
 
-![Test Image 8](https://github.com/ApoorvaJinde/AmazeCart/blob/master/images/8.PNG)
  
 
 
